@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">a full stack web developer (that uses the Ashe a lot)</p>
+<p align="left">a full stack web developer (that uses the name Ashe a lot)</p>
 
 ###
 
