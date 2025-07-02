@@ -42,3 +42,16 @@
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lieutAshe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+<h2 align="left">Hobby Projects:</h2>
+<img 
+  height='50px' 
+  width='50px' 
+  align='left'
+  src='https://github.com/LieutAshe/palettica/blob/main/public/logo.png' 
+/>
+
+# [Palettica](https://palettica.vercel.app/)
+
+A smart and minimal color palette generator — ideal for designers and developers.
