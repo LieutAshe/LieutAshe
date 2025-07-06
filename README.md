@@ -6,7 +6,7 @@
 
 ###
 
-  + I'm from the Philippines <img height="20" src="https://emojigraph.org/media/twitter/flag-philippines_1f1f5-1f1ed.png"/> and always eager to learn.
+  + I'm from the Philippines <img width="14" src="https://emojigraph.org/media/twitter/flag-philippines_1f1f5-1f1ed.png"/> and always eager to learn.
   + Confident in using the English Language
   + Lot of hobbies :black_nib:
 ###
